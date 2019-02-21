@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	cid "github.com/ipfs/go-cid"
-	ipfsApi "github.com/ipfs/go-ipfs-api"
+	cid "gx/ipfs/QmR8BauakNcBa3RbE4nbQu76PDiJgoQgz8AJdhJuiU4TAw/go-cid"
+	ipfsApi "gx/ipfs/QmVq2zWZjsm6UjoA42mWdL34xt326iYRCU69a572ng4su1/go-ipfs-api"
 
 	gsync "github.com/aschmahmann/ipshare/sync"
 )

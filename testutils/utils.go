@@ -4,16 +4,16 @@ import (
 	"context"
 	"log"
 
-	peerstore "github.com/libp2p/go-libp2p-peerstore"
+	peerstore "gx/ipfs/QmZ9zH2FnLcxv1xyzFeUpDUeo55xEhZQHgveZijcxr7TLj/go-libp2p-peerstore"
 
 	crypto "github.com/libp2p/go-libp2p-crypto"
-	host "github.com/libp2p/go-libp2p-host"
 	peer "github.com/libp2p/go-libp2p-peer"
+	host "gx/ipfs/QmfD51tKgJiTMnW9JEiDiPwsCY4mqUoxkhKhBfyW12spTC/go-libp2p-host"
 
 	mrand "math/rand"
 
-	cid "github.com/ipfs/go-cid"
 	multihash "github.com/multiformats/go-multihash"
+	cid "gx/ipfs/QmR8BauakNcBa3RbE4nbQu76PDiJgoQgz8AJdhJuiU4TAw/go-cid"
 
 	lutils "github.com/aschmahmann/ipshare/utils"
 )

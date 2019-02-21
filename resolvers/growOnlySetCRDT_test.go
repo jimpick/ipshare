@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	ipfsApi "github.com/ipfs/go-ipfs-api"
+	ipfsApi "gx/ipfs/QmVq2zWZjsm6UjoA42mWdL34xt326iYRCU69a572ng4su1/go-ipfs-api"
 
 	testutils "github.com/aschmahmann/ipshare/testutils"
 )
