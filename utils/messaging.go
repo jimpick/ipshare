@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"encoding/binary"
 	"github.com/gogo/protobuf/proto"
+	net "github.com/libp2p/go-libp2p-net"
 	"github.com/pkg/errors"
-	net "gx/ipfs/QmPtFaR7BWHLAjSwLh9kXcyrgTzDpuhcWLkx8ioa9RMYnx/go-libp2p-net"
 	"io"
 	"sync"
 )
